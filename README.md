@@ -16,11 +16,6 @@ Alan Badillo Salas
 2. Funciones y Expresiones Lambda
 3. Listas y Listas Generadas
 4. Tuplas y Diccionarios 
-5. Introducción a la Programación Orientada a Objetos
-6. Diseño de Modelos
-7. Diseño de Controladores
-8. Diseño de Vistas
-9. Conexión a Bases de Datos SQL
 
 > Módulo II – Aplicaciones de Python
 
@@ -36,6 +31,11 @@ Orientada a Objetos
 2. Algoritmos de Ordenamiento
 3. Introducción a la Programación Funcional
 4. Flujos de datos y funciones superiores (mapeos, filtros y reductores)
+5. Introducción a la Programación Orientada a Objetos
+6. Diseño de Modelos
+7. Diseño de Controladores
+8. Diseño de Vistas
+9. Conexión a Bases de Datos SQL
 
 > Módulo IV – Casos de Estudio en Python
 
