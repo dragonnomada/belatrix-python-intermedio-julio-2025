@@ -10,7 +10,9 @@ Alan Badillo Salas
 
 ## Sesiones
 
-Sesió1 - https://colab.research.google.com/drive/1ECt0tSVgHXCXffE2vx2Xrh8YWLVl7sCf?usp=sharing
+Sesión 1 - https://colab.research.google.com/drive/1ECt0tSVgHXCXffE2vx2Xrh8YWLVl7sCf?usp=sharing
+
+Ejercicios 1 - https://colab.research.google.com/drive/18_Zblwp_zRrH7nq_gKeBE0bwI2wcJGJA?usp=sharing
 
 ## Temario
 
