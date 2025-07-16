@@ -4,7 +4,7 @@
 
 Profesor: 
 
-Alan Badillo Salas
+Alan Badillo Salas (alan@belatrix.com)
 
 ---
 
