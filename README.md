@@ -18,6 +18,8 @@ Sesión 2 - https://colab.research.google.com/drive/1s2Mq7AkO_04MiJiQjd8U8g4F7xa
 
 Ejercicios 2 - https://colab.research.google.com/drive/1G6t9VSERexd2McvbG__cRrsFPth8vKUw?usp=sharing
 
+Sesión 3 - https://colab.research.google.com/drive/1uVjB3ML8bZ4pkVpEzbAAfyzH4wiwoosM?usp=sharing
+
 ## Temario
 
 > Módulo I – Introducción a Python
