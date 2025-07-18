@@ -22,6 +22,8 @@ Sesión 3 - https://colab.research.google.com/drive/1uVjB3ML8bZ4pkVpEzbAAfyzH4wi
 
 Ejercicios 3 - https://colab.research.google.com/drive/1lExUm3YZ_PM6Pl2jtpelnCFLzC0FCjXO?usp=sharing
 
+Sesión 4 - https://colab.research.google.com/drive/1a3xlPqqbIR1_tYcpWHAFNaE479Schldt?usp=sharing
+
 ## Temario
 
 > Módulo I – Introducción a Python
