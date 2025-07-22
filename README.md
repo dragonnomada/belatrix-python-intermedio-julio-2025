@@ -28,6 +28,12 @@ Ejercicios 4 - https://colab.research.google.com/drive/1pPJD-8c-i1qCIp3sWVvHnylJ
 
 Sesión 5 - https://colab.research.google.com/drive/1s_Q8oijYsSQ9SmgH2ckd2ZRj2gzRT2lU?usp=sharing
 
+Ejercicios 5 - https://colab.research.google.com/drive/1LotZDGKvJfOzhAZkSBMhqzRoXVsKfQdJ?usp=sharing
+
+Sesión 6 - Códigos aquí
+
+Ejercicios 6 - https://colab.research.google.com/drive/1j0Lw1NYq2bUX4BOaR-MV-ZKBi3PrV4BG?usp=sharing
+
 ## Temario
 
 > Módulo I – Introducción a Python
