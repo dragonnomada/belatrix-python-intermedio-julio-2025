@@ -33,6 +33,7 @@ class ContadorModelo(QObject):
         self.signalDecrementar.connect(self.decrementar)
 
     def incrementar(self):
+        print("Incrementando")
         self.conteo += 1
         self.signalNotificarConteo.emit(self.conteo)
     
@@ -91,9 +92,9 @@ class ContadorControlador(QObject):
 
     def __init__(self):
         super().__init__()
-        self.modelo.signalIncrementar.connect(self.vista.signalIncrementar)
-        self.modelo.signalDecrementar.connect(self.vista.signalDecrementar)
-        self.vista.signalNotificarConteo.connect(self.modelo.signalNotificarConteo)
+        self.vista.signalIncrementar.connect(self.modelo.signalIncrementar)
+        self.vista.signalDecrementar.connect(self.modelo.signalDecrementar)
+        self.modelo.signalNotificarConteo.connect(self.vista.signalNotificarConteo)
 
 controlador = ContadorControlador()
 
