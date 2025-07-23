@@ -34,6 +34,10 @@ Sesión 6 - Códigos aquí
 
 Ejercicios 6 - https://colab.research.google.com/drive/1j0Lw1NYq2bUX4BOaR-MV-ZKBi3PrV4BG?usp=sharing
 
+Sesión 7 - Código aquí
+
+Ejercicios 7 - https://colab.research.google.com/drive/11_nnrkmUD9xhD8F6sk_SNd2VP_Y2wYVW?usp=sharing
+
 ## Temario
 
 > Módulo I – Introducción a Python
